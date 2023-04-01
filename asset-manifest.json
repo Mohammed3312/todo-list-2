@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohammed3312.github.io/todo-list-2/static/css/main.7c294097.css",
+    "main.js": "/Mohammed3312.github.io/todo-list-2/static/js/main.20aaa6af.js",
+    "static/js/787.08112ca6.chunk.js": "/Mohammed3312.github.io/todo-list-2/static/js/787.08112ca6.chunk.js",
+    "index.html": "/Mohammed3312.github.io/todo-list-2/index.html",
+    "main.7c294097.css.map": "/Mohammed3312.github.io/todo-list-2/static/css/main.7c294097.css.map",
+    "main.20aaa6af.js.map": "/Mohammed3312.github.io/todo-list-2/static/js/main.20aaa6af.js.map",
+    "787.08112ca6.chunk.js.map": "/Mohammed3312.github.io/todo-list-2/static/js/787.08112ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c294097.css",
+    "static/js/main.20aaa6af.js"
+  ]
+}
